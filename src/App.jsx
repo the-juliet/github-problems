@@ -12,6 +12,7 @@ function App() {
 
         <p>Monday</p>
         <p>Dev smell~ Let's meet on Friday! </p>
+        <p>Make schedule! </p>
       </header>
       <MainContent />
     </>
