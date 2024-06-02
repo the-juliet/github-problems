@@ -11,7 +11,7 @@ function App() {
         <h1>PR Test - Dev branch </h1>
 
         <p>Monday</p>
-        <p>Dev smell~ </p>
+        <p>Dev smell~ Let's meet on Friday! </p>
       </header>
       <MainContent />
     </>
