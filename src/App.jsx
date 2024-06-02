@@ -8,7 +8,7 @@ function App() {
         <div id="logo-img">
           <img src={logo} />
         </div>
-        <h1>PR Test - two</h1>
+        <h1>PR Test - Dev branch </h1>
       </header>
       <MainContent />
     </>
