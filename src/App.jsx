@@ -9,6 +9,7 @@ function App() {
           <img src={logo} />
         </div>
         <h1>PR Test - Sunday Comming soon! </h1>
+        <p>Ok! </p>
       </header>
       <MainContent />
     </>
