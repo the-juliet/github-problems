@@ -8,11 +8,7 @@ function App() {
         <div id="logo-img">
           <img src={logo} />
         </div>
-        <h1>PR Test - Dev branch </h1>
-
-        <p>Monday</p>
-        <p>Dev smell~ Let's meet on Friday! </p>
-        <p>Make schedule! </p>
+        <h1>PR Test - Sunday Comming soon! </h1>
       </header>
       <MainContent />
     </>
